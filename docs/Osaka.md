@@ -1,0 +1,5 @@
+- Days long
+	- [[Nara]]
+	- Universal Japan
+		- [[Nintendo Land]]
+		- [Ticket purchase](https://www.usjticketing.com/) is limited, must wait until closer to arrival when the attractions will be announced

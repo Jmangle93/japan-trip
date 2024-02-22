@@ -1,0 +1,9 @@
+- [[Itinerary]]
+- [[Tokyo]]
+	- Flights
+		- ATL/DEN
+		- Haneda
+		- Narita
+- [[Kyoto]]
+- [[Osaka]]
+- [[Nagoya]]

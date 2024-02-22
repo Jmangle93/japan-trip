@@ -1,0 +1,39 @@
+site_name: Japan Trip 2024
+nav:
+  - Itinerary: Itinerary.md
+  - Cities:
+    - Tokyo: Tokyo.md
+    - Nagoya: Nagoya.md
+    - Kyoto: Kyoto.md
+    - Osaka: Osaka.md
+
+theme:
+  name: material
+  features:
+    - content.tabs.link
+  logo: assets/geometric_letter_A_icon_3.png
+  favicon: assets/geometric_letter_A_icon_3.png
+  icon:
+    tag:
+      hashtag: material/tag
+  font:
+    text: Georgia
+
+markdown_extensions:
+  - pymdownx.tilde
+  - pymdownx.tasklist
+  - pymdownx.tabbed
+
+plugins:
+  - tags
+  - search
+
+extra:
+  tags:
+    hashtag: \#
+
+extra_css:
+  - stylesheets/extra.css
+
+watch:
+  - docs 

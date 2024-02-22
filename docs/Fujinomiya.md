@@ -1,0 +1,10 @@
+- Visit the stunning Shiraito Falls and enjoy the beautiful autumn foliage surrounding it.
+- Explore the historic Sengen Shrine and witness traditional rituals during the fall season.
+- Take a hike up Mount Fuji and experience the breathtaking views of the fall colors from the summit.
+- Visit the Fujisan Hongu Sengen Taisha Shrine and participate in the autumn festivals held there.
+- Enjoy a relaxing stroll through the scenic Fujinomiya Tea Plantations and savor the aroma of freshly harvested tea leaves.
+- Take part in the Fujinomiya Autumn Festival and witness the lively parades and performances.
+- Visit the Fujisan World Heritage Center and learn about the cultural and natural significance of Mount Fuji.
+- Explore the Fujisan Hongu Sengen Shrine Museum and discover the history and art related to the shrine.
+- Indulge in local delicacies such as Fujinomiya yakisoba and Fujinomiya curry.
+- Take a scenic drive along the Fuji Subaru Line and enjoy the panoramic views of Mount Fuji and the fall foliage.
