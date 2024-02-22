@@ -1,3 +1,7 @@
+stages:
+  - prepare
+  - release
+
 prepare_job:
   stage: prepare
   image: alpine:latest
