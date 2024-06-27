@@ -1,5 +1,9 @@
 Dates: 10/25 - 11/11
 ## Day 1 #Tokyo
+- Arrival 10/26/2024 2:55 PM, Narita Airportwa
+	- Air Canada, Confirmation: 35VFN5
+- Check in to hotel, [JR-East Hotel Mets Funabashi](https://www.hotels.com/ho652673280/jr-east-hotel-mets-funabashi-funabashi-japan/?langid=1033)
+	- Itinerary number: 72056343402597
 - Get oriented
 - Try train system
 - Don't starve
@@ -26,3 +30,10 @@ Dates: 10/25 - 11/11
 - [Nagashima Spa Land](https://www.nagashima-onsen.co.jp/spaland/)
 ## Day 8 #Kyoto #Momijigari #Shinkansen 
 - LEAVES
+
+
+
+## Departure - Sunday 11/10/2024
+- Check out of hotel
+- Train to Narita Airport
+- Departing flight 6:05 PM
